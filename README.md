@@ -16,3 +16,12 @@ Rendered morph warps and cross-dissolves between the two images. <br/>
 4. Change grid size by using the `Grid Size` menu item. 							<br/>
 5. After each image is loaded and points manipulated, click `Preview` to view the morph.			<br/>
 6. To export each frame as a .jpeg image, then check the `export images` checkbox.				<br/>
+
+# How to compile 
+Download and open directory in terminal <br/>
+`javac Board.java Morph.java MorphTools.java Triangle.java controlPoint.java`
+<br/> OR <br/>
+`javac *.java`
+
+# How to run
+`java Morph`
