@@ -1,4 +1,4 @@
-# MazeGeneratorSolverJava
+# MorphJava
 Java stand-alone application that provide a user interface and backend driver that supports the rendering of a piecewise (triangular) image morph between two images. 
 
 ![Grid](/MorphWillFerrell.gif)
